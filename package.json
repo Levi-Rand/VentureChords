@@ -1,0 +1,18 @@
+{
+  "name": "venturechords",
+  "version": "1.0.0",
+  "description": "A beginner-friendly chord progression tool for music producers",
+  "scripts": {
+    "generate-sw": "node scripts/generate-sw.js"
+  },
+  "devDependencies": {
+    "workbox-build": "^6.5.4"
+  },
+  "keywords": [
+    "music",
+    "chords",
+    "pwa"
+  ],
+  "author": "",
+  "license": "ISC"
+}
