@@ -1,8 +1,8 @@
 const CACHE_NAME = 'venture-pwa-v1766586912461';
 
 const PRECACHE_URLS = [
-  "./assets/index-BB8A_qJQ.js",
-  "./assets/index-ROwWVSqn.css",
+  "./index-BB8A_qJQ.js",
+  "./index-ROwWVSqn.css",
   "./favicon.png",
   "./icon-192.svg",
   "./icon-512.svg",
