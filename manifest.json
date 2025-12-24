@@ -1,0 +1,35 @@
+{
+  "name": "Venture - Chord Progression Tool",
+  "short_name": "Venture",
+  "description": "A beginner-friendly chord progression tool for music producers. Explore, build, and understand chord progressions.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3F6F5",
+  "theme_color": "#455A52",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": [
+    "music",
+    "education",
+    "utilities"
+  ],
+  "scope": "./"
+}
